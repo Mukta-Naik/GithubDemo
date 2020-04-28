@@ -4,4 +4,5 @@
   echo 'New line added';
   echo 'One more new line added';
   echo 'New line added to storm branch';
+  echo 'Now switched to master branch';
 ?>
