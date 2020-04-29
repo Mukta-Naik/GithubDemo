@@ -1,0 +1,5 @@
+<?php
+/*
+Multiline comment added
+*/
+?>
