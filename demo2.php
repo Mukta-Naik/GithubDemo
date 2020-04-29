@@ -1,5 +1,5 @@
 <?php
-/*
-Multiline comment added
-*/
+function test () {
+
+}
 ?>
